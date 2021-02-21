@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{332730B7-B4BC-2552-F272-529D233DF649}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreManager.cs">
+    <Files>
+      <File FileName="Assets/Missile.cs" Line="62" Column="29" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/Missiles/MissilePool.cs" Line="42" Column="3" />
+      <File FileName="Assets/Scripts/Missiles/MissileControl.cs" Line="52" Column="87" />
+      <File FileName="Assets/Scripts/Missiles/EnemyMissile.cs" Line="55" Column="33" />
+      <File FileName="Assets/Scripts/EnemyMissileController.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/TargetVectors.cs" Line="7" Column="38" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="8" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="69692499-7091-42d3-ad2b-2be597477e0e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
